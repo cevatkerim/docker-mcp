@@ -15,7 +15,7 @@ A Model Context Protocol (MCP) server that enables LLMs to safely execute code i
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/docker-mcp.git
+git clone https://github.com/cevatkerim/docker-mcp.git
 cd docker-mcp
 
 # Install in development mode
